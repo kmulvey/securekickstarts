@@ -15,7 +15,7 @@
 #   limitations under the License.
 #
 install
-url --url=http://mirrors.kernel.org/centos/6/os/x86_64/
+url --url=http://fedora.mirror.lstn.net/releases/19/Fedora/x86_64/os/
 text
 lang en_US.UTF-8
 keyboard us
